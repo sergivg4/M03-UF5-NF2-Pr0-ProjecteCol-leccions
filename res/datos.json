@@ -1,0 +1,50 @@
+{
+  "1": {
+    "stock": 342,
+    "precio": 3.2,
+    "id": 1,
+    "nom": "prod1"
+  },
+  "2": {
+    "stock": 425,
+    "precio": 19.3,
+    "id": 2,
+    "nom": "prod2"
+  },
+  "3": {
+    "stock": 593,
+    "precio": 4.99,
+    "id": 3,
+    "nom": "prod3"
+  },
+  "4": {
+    "stock": 293,
+    "precio": 0.29,
+    "id": 4,
+    "nom": "prod4"
+  },
+  "5": {
+    "stock": 55,
+    "precio": 23.5,
+    "id": 5,
+    "nom": "prod5"
+  },
+  "6": {
+    "stock": 555,
+    "precio": 32.2,
+    "id": 6,
+    "nom": "prod6"
+  },
+  "7": {
+    "stock": 7,
+    "precio": 7.0,
+    "id": 7,
+    "nom": "prod7"
+  },
+  "9": {
+    "stock": 99,
+    "precio": 21.0,
+    "id": 9,
+    "nom": "prod9"
+  }
+}
